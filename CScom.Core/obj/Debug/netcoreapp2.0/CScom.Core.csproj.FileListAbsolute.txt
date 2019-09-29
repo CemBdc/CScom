@@ -1,0 +1,14 @@
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\bin\Debug\netcoreapp2.0\CScom.Core.deps.json
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\bin\Debug\netcoreapp2.0\CScom.Core.dll
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\bin\Debug\netcoreapp2.0\CScom.Core.pdb
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\bin\Debug\netcoreapp2.0\CScom.Common.dll
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\bin\Debug\netcoreapp2.0\CScom.Data.dll
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\bin\Debug\netcoreapp2.0\CScom.Data.pdb
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\bin\Debug\netcoreapp2.0\CScom.Common.pdb
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\obj\Debug\netcoreapp2.0\CScom.Core.csprojAssemblyReference.cache
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\obj\Debug\netcoreapp2.0\CScom.Core.csproj.CoreCompileInputs.cache
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\obj\Debug\netcoreapp2.0\CScom.Core.AssemblyInfoInputs.cache
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\obj\Debug\netcoreapp2.0\CScom.Core.AssemblyInfo.cs
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\obj\Debug\netcoreapp2.0\CScom.Core.csproj.CopyComplete
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\obj\Debug\netcoreapp2.0\CScom.Core.dll
+C:\Users\is97233\Desktop\Cem\Projects\CScom\CScom.Core\obj\Debug\netcoreapp2.0\CScom.Core.pdb

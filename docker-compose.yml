@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  cscom.api:
+    image: ${DOCKER_REGISTRY}cscomapi
+    build:
+      context: .
+      dockerfile: CScom.Api/Dockerfile
