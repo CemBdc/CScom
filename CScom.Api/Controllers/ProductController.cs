@@ -22,9 +22,9 @@ namespace CScom.Api.Controllers
         {
         }
 
-        [HttpPost("AddBasket")]
+        [HttpPost("Add")]
         [ServiceFilter(typeof(ValidationFilter))]
-        public async Task<IActionResult> AddBasket([FromBody]BasketProduct model)
+        public async Task<IActionResult> Add([FromBody]BasketProduct model)
         {
             if (model == null || !ModelState.IsValid)
             {
