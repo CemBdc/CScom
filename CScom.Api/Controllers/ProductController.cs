@@ -22,7 +22,7 @@ namespace CScom.Api.Controllers
         {
         }
 
-        [HttpPost("Add")]
+        [HttpPost]
         [ServiceFilter(typeof(ValidationFilter))]
         public async Task<IActionResult> Add([FromBody]BasketProduct model)
         {
@@ -51,6 +51,31 @@ namespace CScom.Api.Controllers
 
             return Ok(result);
 
+        }
+        
+        [HttpGet]
+        public IEnumerable<string> Get()
+        {
+            return new string[] { "value1", "value2" };
+        }
+
+        // GET api/product/5
+        [HttpGet("{id}")]
+        public string Get(int id)
+        {
+            return "value"; //TODO
+        }
+
+        // PUT api/product/5
+        [HttpPut("{id}")]
+        public void Put(int id, [FromBody]string value)
+        { //TODO
+        }
+
+        // DELETE api/product/5
+        [HttpDelete("{id}")]
+        public void Delete(int id)
+        { //TODO
         }
 
         private static ApiResultModel SetResultModel(BasketProduct model, bool isAdded)
